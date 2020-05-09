@@ -1,0 +1,13 @@
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.exe
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.deps.json
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.runtimeconfig.json
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.runtimeconfig.dev.json
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.dll
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\bin\Debug\netcoreapp3.1\SalveDinheiro.pdb
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.csprojAssemblyReference.cache
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.AssemblyInfoInputs.cache
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.AssemblyInfo.cs
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.dll
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.pdb
+C:\Users\Ingrid\Documents\visual studio projetos\SalveDinheiro\SalveDinheiro\obj\Debug\netcoreapp3.1\SalveDinheiro.genruntimeconfig.cache
